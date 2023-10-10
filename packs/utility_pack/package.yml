@@ -1,0 +1,6 @@
+enforce_dependencies: true
+enforce_privacy: true
+enforce_architecture: strict
+layer: utility
+dependencies:
+  - packs/domain_pack

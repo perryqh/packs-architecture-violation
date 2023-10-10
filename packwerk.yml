@@ -1,0 +1,6 @@
+architecture_layers:
+  - domain
+  - utility
+
+package_paths:
+  - packs/*

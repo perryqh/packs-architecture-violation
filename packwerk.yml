@@ -1,4 +1,5 @@
 architecture_layers:
+  - application_harness
   - domain
   - utility
 

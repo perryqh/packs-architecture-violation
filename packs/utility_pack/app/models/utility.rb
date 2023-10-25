@@ -1,6 +1,6 @@
 class Utility
   def self.bar
-    Domain.foo
+    # Domain.foo
   end
 end
 
